@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="C:\Users\aluno.cad\Desktop\AplicativoComMultiplasJanelas.tex">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormNovaCompra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormNovaVenda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormNovoCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormNovoFornecedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormNovoProduto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
